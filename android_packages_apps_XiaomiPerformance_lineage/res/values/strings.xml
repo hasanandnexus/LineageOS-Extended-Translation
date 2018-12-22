@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Performance profiles</string>
+
+    <!-- Profile Names -->
+    <string name="prof">System other</string>
+    <string name="prof0">Default</string>
+    <string name="prof1">Balance</string>
+    <string name="prof2">Games</string>
+    <string name="prof3">Battery</string>
+    <string name="prof4">Default with boost</string>
+    <string name="prof5">Balance with boost</string>
+    <string name="prof6">User balance</string>
+    <string name="prof7">User games</string>
+    <string name="prof8">User saving</string>
+    <string name="prof9">User battery</string>
+
+    <!-- Profile Descriptions -->
+    <string name="profdesc0">CPU Governor: interactive\nCPU Minimum Frequency: 307 MHz.\nCPU Maximum Frequency: 2016 MHz.\nCPU Boost when input: disabled\n-------------------------------------------\nGPU Governor: msm-adreno-tz\nGPU Idle Frequency: 19 MHz.\nGPU Minimum Frequency: 133 MHz.\nGPU Maximum Frequency: 650 MHz.\n-------------------------------------------\nI/O Sheduler (Internal Storage): maple\nRead-ahead (Internal Storage): 128 kB.\nI/O Sheduler (Enternal Storage): maple\nRead-ahead (Enternal Storage): 256 kB.</string>
+    <string name="profdesc1">CPU Governor: interactive\nCPU Minimum Frequency: 307 MHz.\nCPU Maximum Frequency: 1689 MHz.\nCPU Boost when input: disabled\n-------------------------------------------\nGPU Governor: msm-adreno-tz\nGPU Idle Frequency: 19 MHz.\nGPU Minimum Frequency: 133 MHz.\nGPU Maximum Frequency: 510 MHz.\n-------------------------------------------\nI/O Sheduler (Internal Storage): maple\nRead-ahead (Internal Storage): 128 kB.\nI/O Sheduler (Enternal Storage): maple\nRead-ahead (Enternal Storage): 256 kB.</string>
+    <string name="profdesc2">CPU Governor: interactive\nCPU Minimum Frequency: 1689 MHz.\nCPU Maximum Frequency: 2016 MHz.\nCPU Boost when input: disabled\n-------------------------------------------\nGPU Governor: msm-adreno-tz\nGPU Idle Frequency: 19 MHz.\nGPU Minimum Frequency: 650 MHz.\nGPU Maximum Frequency: 650 MHz.\n-------------------------------------------\nI/O Sheduler (Internal Storage): maple\nRead-ahead (Internal Storage): 128 kB.\nI/O Sheduler (Enternal Storage): maple\nRead-ahead (Enternal Storage): 256 kB.</string>
+    <string name="profdesc3">CPU Governor: interactive\nCPU Minimum Frequency: 307 MHz.\nCPU Maximum Frequency: 1036 MHz.\nCPU Boost when input: disabled\n-------------------------------------------\nGPU Governor: msm-adreno-tz\nGPU Idle Frequency: 19 MHz.\nGPU Minimum Frequency: 133 MHz.\nGPU Maximum Frequency: 400 MHz.\n-------------------------------------------\nI/O Sheduler (Internal Storage): maple\nRead-ahead (Internal Storage): 128 kB.\nI/O Sheduler (Enternal Storage): maple\nRead-ahead (Enternal Storage): 256 kB.</string>
+    <string name="profdesc4">CPU Governor: interactive\nCPU Minimum Frequency: 307 MHz.\nCPU Maximum Frequency: 2016 MHz.\nCPU Boost when input: 1036 MHz.\n-------------------------------------------\nGPU Governor: msm-adreno-tz\nGPU Idle Frequency: 19 MHz.\nGPU Minimum Frequency: 133 MHz.\nGPU Maximum Frequency: 650 MHz.\n-------------------------------------------\nI/O Sheduler (Internal Storage): maple\nRead-ahead (Internal Storage): 128 kB.\nI/O Sheduler (Enternal Storage): maple\nRead-ahead (Enternal Storage): 256 kB.</string>
+    <string name="profdesc5">CPU Governor: interactive\nCPU Minimum Frequency: 307 MHz.\nCPU Maximum Frequency: 1689 MHz.\nCPU Boost when input: 1036 MHz.\n-------------------------------------------\nGPU Governor: msm-adreno-tz\nGPU Idle Frequency: 19 MHz.\nGPU Minimum Frequency: 133 MHz.\nGPU Maximum Frequency: 510 MHz.\n-------------------------------------------\nI/O Sheduler (Internal Storage): maple\nRead-ahead (Internal Storage): 128 kB.\nI/O Sheduler (Enternal Storage): maple\nRead-ahead (Enternal Storage): 256 kB.</string>
+    <string name="profdesc6">CPU Governor: interactive\nCPU Minimum Frequency: 307 MHz.\nCPU Maximum Frequency: 1804 MHz.\nCPU Boost when input: disabled\n-------------------------------------------\nGPU Governor: msm-adreno-tz\nGPU Idle Frequency: 19 MHz.\nGPU Minimum Frequency: 133 MHz.\nGPU Maximum Frequency: 560 MHz.\n-------------------------------------------\nI/O Sheduler (Internal Storage): fiops\nRead-ahead (Internal Storage): 128 kB.\nI/O Sheduler (Enternal Storage): fiops\nRead-ahead (Enternal Storage): 256 kB.</string>
+    <string name="profdesc7">CPU Governor: interactive\nCPU Minimum Frequency: 307 MHz.\nCPU Maximum Frequency: 2016 MHz.\nCPU Boost when input: disabled\n-------------------------------------------\nGPU Governor: msm-adreno-tz\nGPU Idle Frequency: 19 MHz.\nGPU Minimum Frequency: 650 MHz.\nGPU Maximum Frequency: 650 MHz.\n-------------------------------------------\nI/O Sheduler (Internal Storage): fiops\nRead-ahead (Internal Storage): 128 kB.\nI/O Sheduler (Enternal Storage): fiops\nRead-ahead (Enternal Storage): 256 kB.</string>
+    <string name="profdesc8">CPU Governor: interactive\nCPU Minimum Frequency: 307 MHz.\nCPU Maximum Frequency: 1401 MHz.\nCPU Boost when input: disabled\n-------------------------------------------\nGPU Governor: msm-adreno-tz\nGPU Idle Frequency: 19 MHz.\nGPU Minimum Frequency: 133 MHz.\nGPU Maximum Frequency: 320 MHz.\n-------------------------------------------\nI/O Sheduler (Internal Storage): fiops\nRead-ahead (Internal Storage): 128 kB.\nI/O Sheduler (Enternal Storage): fiops\nRead-ahead (Enternal Storage): 256 kB.</string>
+    <string name="profdesc9">CPU Governor: interactive\nCPU Minimum Frequency: 307 MHz.\nCPU Maximum Frequency: 1036 MHz.\nCPU Boost when input: disabled\n-------------------------------------------\nGPU Governor: msm-adreno-tz\nGPU Idle Frequency: 19 MHz.\nGPU Minimum Frequency: 133 MHz.\nGPU Maximum Frequency: 216 MHz.\n-------------------------------------------\nI/O Sheduler (Internal Storage): fiops\nRead-ahead (Internal Storage): 128 kB.\nI/O Sheduler (Enternal Storage): fiops\nRead-ahead (Enternal Storage): 256 kB.</string>
+
+    <!-- QS Tile Names -->
+    <string name="profileTile">Default</string>
+    <string name="tile1">Balance</string>
+    <string name="tile2">Games</string>
+    <string name="tile3">Battery</string>
+    <string name="tile4">Default\nwith boost</string>
+    <string name="tile5">Balance\nwith boost</string>
+    <string name="tile6">User\nbalance</string>
+    <string name="tile7">User\ngames</string>
+    <string name="tile8">User\nsaving</string>
+    <string name="tile9">User\nbattery</string>
+
+    <!-- Support Strings -->
+    <string name="no_performance_support_dialog_title">No \"Performance profiles\" support detected</string>
+    <string name="no_performance_support_dialog_message">Please contact your kernel dev and ask them to add support</string>
+    <string name="no_root_detected_dialog_title">No root detected</string>
+    <string name="no_root_detected_dialog_message">Root access was not found or denied.</string>
+    <string name="custom_descriptions_fail_text">Storage permission denied, Couldn\'t look for custom descriptions</string>
+
+    <!-- Shared Preferences -->
+    <string name="profile" translatable="false" />
+</resources>

@@ -758,6 +758,16 @@
     <string name="style_dark_overlay_default">Default</string>
     <string name="style_dark_overlay_black">Black</string>
     <string name="style_permission_error">Storage access permission is needed to analyze your wallpaper, please grant it to use this feature</string>
+    <string name="style_alert">Help on themes:</string>
+    <string name="style_alert_title_cat">Notes</string>
+    <string name="style_alert_crash">Crashes when changing themes</string>
+    <string name="style_alert_crash_summary">If you crash for example when applying a black theme, you need to reboot into \"TWRP\" and make Wipe \"Dalvik/ART Cache\" and \"Cache\"!</string>
+    <string name="style_alert_accent">Accent color</string>
+    <string name="style_alert_accent_summary">The color of the accent marked \ "+ QS \" means that the \ "Quick Settings \" are also painted in the color of the accent!</string>
+    <string name="style_alert_overlay">White notifications</string>
+    <string name="style_alert_overlay_summary">To enable white notifications for a dark or black theme, go to:\nSettings - Apps &amp; notifications - See all apps - 3 dots menu  (Show system) - Disable \"Notifications Dark Theme\"  or \"Notifications Black Theme\"!</string>
+    <string name="style_alert_dialer">Disable other theme</string>
+    <string name="style_alert_dialer_summary">If you do not like the dark or black theme of the app, eg: \"Phone\" or \"Contacts\". You can turn off the theme in the same way as \"White notifications\"!</string>
 
     <!-- Themes -->
     <string name="theme_applied_toast">Theme applied.</string>

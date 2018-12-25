@@ -14,15 +14,15 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">XiaomiParts</string>
-    <string name="advanced_settings">Advanced</string>
-    <string name="category_vibrator">Vibrator</string>
-    <string name="vib_strength_title_head">Strength</string>
-    <string name="vib_strength_summary_head">Adjusting the strength of the vibrator</string>
-    <string name="category_torch">Torch</string>
-    <string name="yellow_torch_brightness_title_head">Yellow led</string>
-    <string name="yellow_torch_brightness_summary_head">Adjusting the brightness of the yellow led</string>
-    <string name="white_torch_brightness_title_head">White led</string>
-    <string name="white_torch_brightness_summary_head">Adjusting the brightness of the white led</string>
-    <string name="restore_default">Default</string>
+    <string name="app_name">XiaomiAraçları</string>
+    <string name="advanced_settings">Gelişmiş</string>
+    <string name="category_vibrator">Titreşim</string>
+    <string name="vib_strength_title_head">Kuvvet</string>
+    <string name="vib_strength_summary_head">Titreşim Kuvvetini Ayarlama</string>
+    <string name="category_torch">Fener</string>
+    <string name="yellow_torch_brightness_title_head">Sarı led</string>
+    <string name="yellow_torch_brightness_summary_head">Sarı led parlaklığı ayarlama</string>
+    <string name="white_torch_brightness_title_head">Beyaz led</string>
+    <string name="white_torch_brightness_summary_head">Beyaz led parlaklığı ayarlama</string>
+    <string name="restore_default">Varsayılan</string>
 </resources>
